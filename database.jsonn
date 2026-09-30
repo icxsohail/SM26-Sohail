@@ -1,0 +1,24 @@
+{
+  "PlayerData": [
+    {
+      "ID": 1,
+      "Forename": "Sohail",
+      "Surname": "Mohammadi",
+      "Overall": 70,
+      "Potential": 90,
+      "Age": 16,
+      "Position": "ST",
+      "Foot": "Right",
+      "Height": 180,
+      "Weight": 70,
+      "Value": 5000000,
+      "Nation": "Germany",
+      "ClubID": 1,
+      "ImageURL": "https://raw.githubusercontent.com/icxsohail/SM26-Sohail/main/c77ae4ee-d035-4f63-97a9-64648f3aeb24.jpeg"
+    }
+  ],
+  "ClubData": [],
+  "LeagueData": [],
+  "CupData": [],
+  "StadiumData": []
+}
